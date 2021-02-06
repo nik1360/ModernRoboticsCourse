@@ -1,0 +1,5 @@
+K_p = 3 * identity(6)
+K_i = 0.1 * identity(6)
+
+cube_init = [x y phi] = [1 0.5 0]
+cube_goal = [x y phi] = [2 1 pi/2]

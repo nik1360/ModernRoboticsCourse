@@ -1,0 +1,4 @@
+YouBot initialized!
+trajectory.csv generated inside the results folder!
+kinematics.csv generated inside the results folder!
+err_plot.png generated in the results folder!
